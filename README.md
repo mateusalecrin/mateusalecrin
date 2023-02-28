@@ -1,4 +1,4 @@
-<h1 align="center"> Oi! Ele mesmo... Mateus Alecrin 😎 </h1>
+<h1 align="center"> Oi! Mateus Alecrin 😎 </h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/mateus-alecrin-909601164/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -12,7 +12,7 @@
 
 * 🌱 I'm currently learning JavaScript.
 
-* 💬 Ask me about **HTML, CSS, JavaScript.** 
+* 💬 Ask me about **JAVA, HTML, CSS, JavaScript.** 
 
 ##
 
