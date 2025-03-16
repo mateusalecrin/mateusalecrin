@@ -1,9 +1,6 @@
-<div align="center">
-  <b><span style="font-size: 28px;">Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></span></b>
-</div>
-<div align="center">
-  <b><span style="font-size: 28px;">Me chamo Mateus Alecrin</span></b>
-</div>
+<h3 align="center">Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"></h3>
+<h3 align="center">I'm Mateus Alecrin</h3>
+
 
 <br>
 <br>
@@ -12,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=Desenvolvedor+Full-Stack+Júnior+❤️;Graduado+em+Analise+e+Desenvolvimento+de+Sistemas+🎓;Entusiasta+do+Aprendizado+Contínuo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=Junior+Full-Stack+Developer+❤️;Graduated+in+Analysis+and+Systems+Development+🎓;Continuous+Learning+Enthusiast">
   </a>
 </p>
 
@@ -21,9 +18,7 @@
 <br>
 <br>
 
-<div align="center">
-  <h2>🚀 My Tech Stack</h2>
-</div>
+<h2 align="center">🚀 My Dev Toolkit</h2>
 
 <table align="center">
   <tr>
